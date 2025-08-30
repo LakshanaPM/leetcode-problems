@@ -21,5 +21,5 @@ struct TreeNode* searchBST(struct TreeNode* root, int val) {
             return root;
         }
     }
-    return NULL;
+   
 }
