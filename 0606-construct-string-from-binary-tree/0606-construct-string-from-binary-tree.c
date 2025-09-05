@@ -30,7 +30,7 @@ void preorder(struct TreeNode* root,char* str,int* i,int isroot){
     
 }
 char* tree2str(struct TreeNode* root) {
-    char* str = malloc(1000000 * sizeof(char));
+    char* str = malloc(100000* sizeof(char));
     int i=0;
     preorder(root,str,&i,1);
     str[i]='\0';
