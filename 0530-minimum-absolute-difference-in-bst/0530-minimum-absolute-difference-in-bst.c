@@ -6,20 +6,20 @@
  *     struct TreeNode *right;
  * };
  */
-void inorder(struct TreeNode* root,struct TreeNode** prev,int* min){
+void inorder(struct TreeNode* root,int* prev,int* min){
     if(!root) return;
     inorder(root->left,prev,min);
-    if(*prev!=NULL){
-    if(root->val-(*prev)->val<*min){
-        *min=root->val-(*prev)->val;
+    if(*prev!=-1){
+    if(root->val-*prev<*min){
+        *min=root->val-*prev;
     }
     }
-    *prev=root;
+    *prev=root->val;
     inorder(root->right,prev,min);
 }
 int getMinimumDifference(struct TreeNode* root) {
     int min=INT_MAX;
-    struct TreeNode* prev=NULL;
+    int prev=-1;
     inorder(root,&prev,&min);
     return min;
 }
