@@ -6,15 +6,12 @@
  *     struct TreeNode *right;
  * };
  */
-int leafsum(struct TreeNode* root,int* sum,int isleft){
-    if(root==NULL) return *sum;
-    if(root->left==NULL&&root->right==NULL&&isleft) *sum+=root->val;
-    leafsum(root->left,sum,1);
-    leafsum(root->right,sum,0);
-    return *sum;
+int leafsum(struct TreeNode* root,int isleft){
+    if(root==NULL) return 0;
+    if(root->left==NULL&&root->right==NULL&&isleft) return root->val;
+    return leafsum(root->left,1)+leafsum(root->right,0);
+
 }
 int sumOfLeftLeaves(struct TreeNode* root) {
-    int sum=0;
-    leafsum(root,&sum,0);
-    return sum;
+    return leafsum(root,0);
 }
