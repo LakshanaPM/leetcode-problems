@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2384-root-equals-sum-of-children](https://github.com/LakshanaPM/leetcode-problems/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/LakshanaPM/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2384-root-equals-sum-of-children](https://github.com/LakshanaPM/leetcode-problems/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
