@@ -20,6 +20,7 @@ bool leafSimilar(struct TreeNode* root1, struct TreeNode* root2) {
     int* arr=(int*)calloc(200,sizeof(int));
     int* arr1=(int*)calloc(200,sizeof(int));
     int size1=0,size2=0;
+    if(size1!=size2) return false;
     inorder(root1,arr,&size1);
     inorder(root2,arr1,&size2);
     for(int i=0;i<200;i++){
