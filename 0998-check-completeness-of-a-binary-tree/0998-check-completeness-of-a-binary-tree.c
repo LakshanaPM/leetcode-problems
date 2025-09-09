@@ -1,0 +1,32 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     struct TreeNode *left;
+ *     struct TreeNode *right;
+ * };
+ */
+bool isCompleteTree(struct TreeNode* root) {
+    if(root==NULL) return true;
+    struct TreeNode** queue=(struct TreeNode**)malloc(1000*sizeof(struct TreeNode*));
+    int start=0,end=0;
+    queue[end++]=root;
+    bool seen=false;
+    while(start<end){
+        struct TreeNode* node=queue[start++];
+        if(node){
+            if(seen){
+                free(queue);
+                return false;
+
+            }
+            queue[end++]=node->left;
+            queue[end++]=node->right;
+        }
+        else{
+            seen=true;
+        }
+    }
+    free(queue);
+    return true;
+}
