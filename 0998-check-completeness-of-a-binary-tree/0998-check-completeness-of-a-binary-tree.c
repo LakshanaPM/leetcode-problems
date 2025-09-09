@@ -8,7 +8,7 @@
  */
 bool isCompleteTree(struct TreeNode* root) {
     if(root==NULL) return true;
-    struct TreeNode** queue=(struct TreeNode**)malloc(1000*sizeof(struct TreeNode*));
+    struct TreeNode* queue[1000];
     int start=0,end=0;
     queue[end++]=root;
     bool seen=false;
@@ -16,7 +16,7 @@ bool isCompleteTree(struct TreeNode* root) {
         struct TreeNode* node=queue[start++];
         if(node){
             if(seen){
-                free(queue);
+                
                 return false;
 
             }
@@ -27,6 +27,6 @@ bool isCompleteTree(struct TreeNode* root) {
             seen=true;
         }
     }
-    free(queue);
+    
     return true;
 }
