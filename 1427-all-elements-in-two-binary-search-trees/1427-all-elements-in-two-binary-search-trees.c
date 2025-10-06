@@ -45,5 +45,7 @@ int* getAllElements(struct TreeNode* root1, struct TreeNode* root2, int* returnS
     while(j<size2){
         result[(*returnSize)++]=arr2[j++];
     }
+    free(arr1);
+    free(arr2);
     return result;
 }
