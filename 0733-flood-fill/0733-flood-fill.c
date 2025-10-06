@@ -21,12 +21,12 @@ int** floodFill(int** image, int imageSize, int* imageColSize, int sr, int sc, i
     for(int i=0;i<imageSize;i++){
         (*returnColumnSizes)[i] = imageColSize[i];
     }
-    int original=image[sr][sc];
-    if(original==color){
+    
+    if(image[sr][sc]==color){
         return image;
     }
     
     
-    checkEntire(image,imageSize,imageColSize,original,sr,sc,color); 
+    checkEntire(image,imageSize,imageColSize,image[sr][sc],sr,sc,color); 
     return image;
 }
