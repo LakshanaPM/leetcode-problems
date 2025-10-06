@@ -45,12 +45,7 @@ int* findMode(struct TreeNode* root, int* returnSize) {
         if(count==maxcount) result[(*returnSize)++]=arr[i];
     }
     if(maxcount==1) result[(*returnSize)++]=arr[0];
-    if(*returnSize == 0 && index > 0){
-        
-        result[0]=arr[0];
-        *returnSize=1;
-        return result;
-    }
+    
     free(arr);
     return result;
 }
