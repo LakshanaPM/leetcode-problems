@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/LakshanaPM/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2384-root-equals-sum-of-children](https://github.com/LakshanaPM/leetcode-problems/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/LakshanaPM/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/LakshanaPM/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2384-root-equals-sum-of-children](https://github.com/LakshanaPM/leetcode-problems/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LakshanaPM/leetcode-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1035-cousins-in-binary-tree) |
 ## String
 |  |
 | ------- |
