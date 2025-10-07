@@ -8,6 +8,7 @@ void islandCheck(char** grid, int gridSize, int* gridColSize,int r,int c){
 
 }
 int numIslands(char** grid, int gridSize, int* gridColSize) {
+    if (grid==NULL||gridSize == 0) return 0;
     int count=0;
     for(int i=0;i<gridSize;i++){
         for(int j=0;j<gridColSize[0];j++){
