@@ -7,16 +7,14 @@
  * };
  */
 
-void countGoodNodes(struct TreeNode* root,int previous,int* count){
-    if(!root) return;
-    if(root->val>=previous) {
+int countGoodNodes(struct TreeNode* root,int previous){
+    if(!root) return 0;
+    int good = (root->val >=previous) ? 1 : 0;
+    if(root->val>previous) {
     previous=root->val;
-    (*count)++;}
-    countGoodNodes(root->left,previous,count);
-    countGoodNodes(root->right,previous,count);
+    }
+    return good+countGoodNodes(root->left,previous)+countGoodNodes(root->right,previous);
 }
 int goodNodes(struct TreeNode* root){
-    int count=0;
-    countGoodNodes(root,root->val,&count);
-    return count;
+    return countGoodNodes(root,root->val);
 }
