@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshanaPM/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshanaPM/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LakshanaPM/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LakshanaPM/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0284-peeking-iterator](https://github.com/LakshanaPM/leetcode-problems/tree/master/0284-peeking-iterator) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
 ## Math
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/LakshanaPM/leetcode-problems/tree/master/0284-peeking-iterator) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
