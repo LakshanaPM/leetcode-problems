@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0048-rotate-image) |
+| [0284-peeking-iterator](https://github.com/LakshanaPM/leetcode-problems/tree/master/0284-peeking-iterator) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
 ## Matrix
@@ -156,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Design
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/LakshanaPM/leetcode-problems/tree/master/0284-peeking-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/LakshanaPM/leetcode-problems/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
