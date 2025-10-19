@@ -18,8 +18,7 @@ int* decrypt(int* code, int codeSize, int k, int* returnSize) {
                 if(y==codeSize){
                     y=0;
                 }
-                sum=sum+code[y];
-                y++;
+                sum=sum+code[y++];
                 x++;
             }
             result[i]=sum;
@@ -32,8 +31,7 @@ int* decrypt(int* code, int codeSize, int k, int* returnSize) {
                 if(y==-1){
                     y=codeSize-1;
                 }
-                sum=sum+code[y];
-                y--;
+                sum=sum+code[y--];
                 x--;
             }
             result[i]=sum;
