@@ -1,10 +1,10 @@
 int finalValueAfterOperations(char** operations, int operationsSize) {
-    int x=0;
-    for(int i=0;i<operationsSize;i++){
+    int x=0,i;
+    for(i=0;i<operationsSize;i++){
         if(operations[i][1]=='-'){
             x=x-1;
         }
-        else{
+        else if(operations[i][0]){
             x+=1;
         }
     }
