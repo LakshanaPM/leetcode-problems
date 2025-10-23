@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0606-construct-string-from-binary-tree) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
 | [1755-defuse-the-bomb](https://github.com/LakshanaPM/leetcode-problems/tree/master/1755-defuse-the-bomb) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshanaPM/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshanaPM/leetcode-problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/LakshanaPM/leetcode-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
