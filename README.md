@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LakshanaPM/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/LakshanaPM/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LakshanaPM/leetcode-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/0904-leaf-similar-trees) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LakshanaPM/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0695-max-area-of-island](https://github.com/LakshanaPM/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LakshanaPM/leetcode-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0284-peeking-iterator](https://github.com/LakshanaPM/leetcode-problems/tree/master/0284-peeking-iterator) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/LakshanaPM/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
 | [1755-defuse-the-bomb](https://github.com/LakshanaPM/leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/LakshanaPM/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
 ## Math
 |  |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/LakshanaPM/leetcode-problems/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
 | ------- |
