@@ -8,8 +8,5 @@ bool hasSameDigits(char* s) {
         s[len-1]='\0';
         len--;
     }
-    if(len==2&&s[0]==s[1]){
-        return true;
-    }
-    return false;
+    return s[0]==s[1];
 }
