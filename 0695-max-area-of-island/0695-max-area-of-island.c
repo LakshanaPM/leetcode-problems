@@ -10,8 +10,7 @@ int maxAreaOfIsland(int** grid, int gridSize, int* gridColSize) {
         for(int j=0;j<gridColSize[i];j++){
             if(grid[i][j]){
                 int count=areaCount(grid,gridSize,gridColSize,i,j);
-                if(count>maxCount){
-                maxCount=count;}
+                maxCount=count>maxCount?count:maxCount;
             }
         }
     }
