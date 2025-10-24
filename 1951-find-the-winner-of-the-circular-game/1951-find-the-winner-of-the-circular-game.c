@@ -1,11 +1,11 @@
 int findTheWinner(int n, int k) {
     int* s=(int*)malloc((n)*sizeof(int));
-    for(int i=0;i<n;i++){
+    int i;
+    for(i=0;i<n;i++){
         s[i]=(i+1);
     }
-    int i=0;
+    i=0;
     int size=n;
-
     while(size!=1){
         i=(i+k-1)%size;
         for(int j=i;j<size-1;j++){
