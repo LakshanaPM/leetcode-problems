@@ -5,21 +5,15 @@ int findTheWinner(int n, int k) {
     }
     int i=0;
     int size=n;
-    int count=1;
+
     while(size!=1){
-        if(count==k){
-            for(int j=i;j<size-1;j++){
-                s[j]=s[j+1];
-            }
-            size--;
-            count=1;
-            if (i == size) i = 0;  
+        i=(i+k-1)%size;
+        for(int j=i;j<size-1;j++){
+            s[j]=s[j+1];
         }
-        else{
-            count++;
-            i++;
-            if (i == size) i = 0;
-        }
+        size--;
     }
-    return s[0];
+    size=s[0];
+    free(s);
+    return size;
 }
