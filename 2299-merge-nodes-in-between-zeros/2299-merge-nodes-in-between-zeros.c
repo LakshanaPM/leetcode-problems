@@ -2,8 +2,8 @@
 struct ListNode* mergeNodes(struct ListNode* head) {
     struct ListNode* node=head;
     struct ListNode* previous=head;
+    int sum=0;
     while(node&&node->next){
-        int sum=0;
         while(node->next&&node->next->val!=0){
             sum+=node->next->val;
             struct ListNode* todelete=node->next;    
@@ -12,6 +12,7 @@ struct ListNode* mergeNodes(struct ListNode* head) {
         }
         node->val=sum;
         previous=node;
+        sum=0;
         node=node->next;
     }
     if(previous){
