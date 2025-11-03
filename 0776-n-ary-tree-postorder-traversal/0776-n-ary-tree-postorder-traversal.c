@@ -11,6 +11,10 @@
  * Note: The returned array must be malloced, assume caller calls free().
  */
 int* postorder(struct Node* root, int* returnSize) {
+    if (!root) {
+        *returnSize = 0;
+        return NULL;
+    }
     int *arr=(int*)malloc(10000*sizeof(int));
     *returnSize=0;
     void postorderTraversal(struct Node* root){
