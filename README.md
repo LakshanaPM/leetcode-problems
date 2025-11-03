@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LakshanaPM/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0563-binary-tree-tilt](https://github.com/LakshanaPM/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LakshanaPM/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0563-binary-tree-tilt](https://github.com/LakshanaPM/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LakshanaPM/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0563-binary-tree-tilt](https://github.com/LakshanaPM/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
