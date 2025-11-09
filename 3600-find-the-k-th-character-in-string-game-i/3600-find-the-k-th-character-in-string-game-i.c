@@ -1,15 +1,11 @@
 char kthCharacter(int k) {
-    char word[5000];
-    word[0]='a';
-    while(strlen(word) < k){
-        char str[1000];
-        int i=0;
-        while(word[i]!='\0'){
-            str[i]=word[i]+1;
-            i++;
-        }
-        str[i]='\0';
-        strcat(word, str);
+    if(k==1) return'a';
+    int l=1;
+    while(l*2<k){
+        l=l*2;
+
     }
-    return word[k-1];
+    if(k-l>0) return kthCharacter(k-l)+1;
+    else return kthCharacter(k);
+    
 }
