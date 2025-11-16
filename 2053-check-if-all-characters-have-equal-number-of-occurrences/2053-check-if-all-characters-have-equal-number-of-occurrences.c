@@ -15,5 +15,6 @@ bool areOccurrencesEqual(char* s) {
             }
         }
     }
-    return count;
+    free(count);
+    return true;
 }
