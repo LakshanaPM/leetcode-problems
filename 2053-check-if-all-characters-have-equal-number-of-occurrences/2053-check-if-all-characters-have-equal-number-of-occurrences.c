@@ -12,6 +12,7 @@ bool areOccurrencesEqual(char* s) {
             f=count[s[i]-'a'];
         }
         if(count[s[i]-'a']!=f){
+            free(count);
             return false;
         }
         i++;
