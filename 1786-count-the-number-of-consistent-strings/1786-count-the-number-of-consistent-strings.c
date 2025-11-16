@@ -8,9 +8,9 @@ int countConsistentStrings(char * allowed, char ** words, int wordsSize){
     k=0;
     for(int i=0;i<wordsSize;i++){
         int l=1;
-        allowed=words[i];
-        for(int j=0;allowed[j]!='\0';j++){
-            if(count[allowed[j]-'a']==0){
+        char *word = words[i];
+        for(int j=0;word[j]!='\0';j++){
+            if(count[word[j]-'a']==0){
                 l=0;
                 break;
             }
