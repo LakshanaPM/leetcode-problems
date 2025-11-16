@@ -7,13 +7,14 @@ bool areOccurrencesEqual(char* s) {
     }
     i=0;
     int f=0;
-    for(i=0;i<26;i++){
-        if(count[i]>0){
-            if(!f) f=count[i];
-            else if(count[i]!=f){
-                return false;
-            }
+    while(s[i]!='\0'){
+        if(f==0){
+            f=count[s[i]-'a'];
         }
+        if(count[s[i]-'a']!=f){
+            return false;
+        }
+        i++;
     }
     free(count);
     return true;
