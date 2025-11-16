@@ -13,7 +13,6 @@ bool areAlmostEqual(char* s1, char* s2) {
         }
         i++;
     }
-    if (s1[i] != s2[i]) return false;
     if(count==2){
         return s1[f]==s2[s]&&s1[s]==s2[f];
     }
