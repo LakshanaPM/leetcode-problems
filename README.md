@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/LakshanaPM/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/LakshanaPM/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/LakshanaPM/leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/LakshanaPM/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/LakshanaPM/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/LakshanaPM/leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Counting Sort
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/LakshanaPM/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/LakshanaPM/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/LakshanaPM/leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Bit Manipulation
 |  |
 | ------- |
