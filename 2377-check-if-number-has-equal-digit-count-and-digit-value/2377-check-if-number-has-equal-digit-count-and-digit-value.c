@@ -7,7 +7,10 @@ bool digitCount(char* num) {
     }
     i=0;
     while(num[i]!='\0'){
-        if(count[i]!=num[i]-'0') return false;
+        if(count[i]!=num[i]-'0'){
+            free(count);
+            return false;
+        } 
         i++;
     }
     return true;
