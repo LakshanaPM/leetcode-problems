@@ -1,6 +1,6 @@
 bool makeEqual(char** words, int wordsSize) {
-    int* count=(int*)calloc(26,sizeof(int));
     if(wordsSize==1) return true;
+    int* count=(int*)calloc(26,sizeof(int));
     for(int i=0;i<wordsSize;i++){
         int j=0;
         while(words[i][j]!='\0'){
