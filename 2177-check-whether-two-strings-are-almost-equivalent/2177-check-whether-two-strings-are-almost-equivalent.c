@@ -8,7 +8,11 @@ bool checkAlmostEquivalent(char* word1, char* word2) {
     }
     i=0;
     for(i=0;i<26;i++){
-        if(count1[i]>3||count1[i]<-3) return false;
+        if(count1[i]>3||count1[i]<-3){
+            free(count1);
+            return false;
+        }
     }
+    free(count1);
     return true;
 }
