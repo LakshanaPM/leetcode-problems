@@ -10,8 +10,10 @@ bool makeEqual(char** words, int wordsSize) {
     }
     for(int i=0;i<26;i++){
         if(count[i]%wordsSize!=0){
+            free(count);
             return false;
         }
     }
+    free(count);
     return true;
 }
