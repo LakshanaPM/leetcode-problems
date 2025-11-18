@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/2831-number-of-beautiful-pairs) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshanaPM/leetcode-problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/LakshanaPM/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/LakshanaPM/leetcode-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Matrix
 |  |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/LakshanaPM/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/LakshanaPM/leetcode-problems/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/2831-number-of-beautiful-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/LakshanaPM/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting Sort
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LakshanaPM/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2831-number-of-beautiful-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/2831-number-of-beautiful-pairs) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/LakshanaPM/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
