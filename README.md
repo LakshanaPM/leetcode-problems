@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/LakshanaPM/leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2427-first-letter-to-appear-twice](https://github.com/LakshanaPM/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/LakshanaPM/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting Sort
 |  |
 | ------- |
@@ -348,9 +350,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/LakshanaPM/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2427-first-letter-to-appear-twice](https://github.com/LakshanaPM/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
