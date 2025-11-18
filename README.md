@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LakshanaPM/leetcode-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/LakshanaPM/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/LakshanaPM/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/LakshanaPM/leetcode-problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/LakshanaPM/leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LakshanaPM/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/LakshanaPM/leetcode-problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshanaPM/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/LakshanaPM/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/LakshanaPM/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/LakshanaPM/leetcode-problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/LakshanaPM/leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/LakshanaPM/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/LakshanaPM/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/LakshanaPM/leetcode-problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/LakshanaPM/leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
