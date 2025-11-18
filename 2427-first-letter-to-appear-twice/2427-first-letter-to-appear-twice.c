@@ -9,5 +9,6 @@ char repeatedCharacter(char* s) {
         }
         i++;
     }
+    free(count);
     return s[i];
 }
