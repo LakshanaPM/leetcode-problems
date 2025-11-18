@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/LakshanaPM/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/LakshanaPM/leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LakshanaPM/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2831-number-of-beautiful-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/2831-number-of-beautiful-pairs) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshanaPM/leetcode-problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/LakshanaPM/leetcode-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/LakshanaPM/leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LakshanaPM/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2288-count-operations-to-obtain-zero](https://github.com/LakshanaPM/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2831-number-of-beautiful-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/2831-number-of-beautiful-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2831-number-of-beautiful-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/2831-number-of-beautiful-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/LakshanaPM/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/LakshanaPM/leetcode-problems/tree/master/2486-most-frequent-even-element) |
+| [2831-number-of-beautiful-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/2831-number-of-beautiful-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/LakshanaPM/leetcode-problems/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/LakshanaPM/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LakshanaPM/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2831-number-of-beautiful-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/2831-number-of-beautiful-pairs) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Bit Manipulation
 |  |
