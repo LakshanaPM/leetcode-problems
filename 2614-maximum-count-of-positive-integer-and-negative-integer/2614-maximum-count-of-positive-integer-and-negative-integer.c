@@ -4,5 +4,8 @@ int maximumCount(int* nums, int numsSize) {
         if(nums[i]<0) min++;
         else if(nums[i]>0) max++;
     }
-    return max>min?max:min;
+    if(max>min){
+        return max;
+    }
+    return min;
 }
