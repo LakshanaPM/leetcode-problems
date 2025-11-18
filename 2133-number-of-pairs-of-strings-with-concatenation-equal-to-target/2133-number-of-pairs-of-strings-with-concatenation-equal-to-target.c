@@ -8,11 +8,10 @@ int numOfPairs(char** nums, int numsSize, char* target) {
     for(int i=0;i<numsSize;i++){
         for(int j=0;j<numsSize;j++){
             if(i==j||len[i]+len[j]!=l) continue;
-            char t[120];
+            char t[250];
             strcpy(t, nums[i]);
             if(strcmp(target,strcat(t,nums[j]))==0) count++;
         }
     }
-    free(len);
     return count;
 }
