@@ -4,8 +4,10 @@ bool isPossibleToSplit(int* nums, int numsSize) {
         int t=nums[i];
         count[t]++;
         if(count[t]!=1&&count[t]!=2){
+            free(count);
             return false;
         }
     }
+    free(count);
     return true;
 }
