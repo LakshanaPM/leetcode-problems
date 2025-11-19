@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/3324-split-the-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/LakshanaPM/leetcode-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3778-transform-array-by-parity](https://github.com/LakshanaPM/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshanaPM/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3778-transform-array-by-parity](https://github.com/LakshanaPM/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 ## Design
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/LakshanaPM/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3778-transform-array-by-parity](https://github.com/LakshanaPM/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
