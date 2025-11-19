@@ -7,10 +7,9 @@ bool canConstruct(char* ransomNote, char* magazine) {
     }
     i=0;
     while(ransomNote[i]){
-        count[ransomNote[i]-'a']--;
-        if(count[ransomNote[i]-'a']<0){
-            return false;
-        }
+        int t=ransomNote[i]-'a';
+        count[t]--;
+        if(count[t]<0) return false;
         i++;
     }
     return true;
