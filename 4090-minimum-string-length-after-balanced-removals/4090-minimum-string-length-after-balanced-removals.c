@@ -10,7 +10,6 @@ int minLengthAfterRemovals(char* s) {
         }
         i++;
     }
-    
-    return abs(a-b);
-
+    a=abs(a-b);
+    return a;
 }
