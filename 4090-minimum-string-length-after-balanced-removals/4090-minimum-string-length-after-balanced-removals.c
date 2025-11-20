@@ -1,11 +1,16 @@
 int minLengthAfterRemovals(char* s) {
-    int count[2];
+    int a=0,b=0;
     int i=0;
     while(s[i]){
-        ++count[s[i]-'a'];
+        if(s[i]=='a'){
+            a++;
+        }
+        else{
+            b++;
+        }
         i++;
     }
     
-    return abs(count[0]-count[1]);
+    return abs(a-b);
 
 }
