@@ -4,7 +4,7 @@
 int* shuffle(int* nums, int numsSize, int n, int* returnSize){
     int* ans=(int*)malloc(numsSize*sizeof(int));
     int k=0;
-    for(int i=0;i<numsSize-n;i++){
+    for(int i=0;i<n;i++){
         ans[k++]=nums[i];
         ans[k++]=nums[i+n];
     }
