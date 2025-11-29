@@ -6,10 +6,8 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize) {
     int k=0;
     
     for(int i=0;i<numsSize;i++){
-        ans[k++]=nums[i];
-    }
-    for(int i=0;i<numsSize;i++){
-        ans[k++]=nums[i];
+        ans[i]=nums[i];
+        ans[i+numsSize]=nums[i];
     }
     *returnSize=numsSize*2;
     return ans;
