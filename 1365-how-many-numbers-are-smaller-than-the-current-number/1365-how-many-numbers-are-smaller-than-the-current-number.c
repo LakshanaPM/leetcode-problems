@@ -4,19 +4,14 @@
 int* smallerNumbersThanCurrent(int* nums, int numsSize, int* returnSize) {
     
     *returnSize=numsSize;
-    int* count=(int*)calloc(101,sizeof(int));
-    for(int i=0;i<numsSize;i++){
-        ++count[nums[i]];
-    }
+    int* count=(int*)calloc(numsSize,sizeof(int));
     
     for(int i=0;i<numsSize;i++){
-        int sum=0;
-        for(int j=0;j<nums[i];j++){
-            if(count[j]){
-                sum+=count[j];
+        for(int j=0;j<numsSize;j++){
+            if(i!=j&&nums[j]<nums[i]){
+                count[i]++;
             }
         }
-        nums[i]=sum;
     }
-    return nums;
+    return count;
 }
