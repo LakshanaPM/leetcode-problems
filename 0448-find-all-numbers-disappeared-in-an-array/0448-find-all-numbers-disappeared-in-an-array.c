@@ -9,13 +9,12 @@ int* findDisappearedNumbers(int* nums, int numsSize, int* returnSize) {
     for(int i=0;i<numsSize;i++){
         a[nums[i]]=true;
     }
-    int *res=(int*)malloc(numsSize*sizeof(int));
     int k=0;
     for(int i=0;i<=numsSize;i++){
         if(i>0&&!a[i]){
-            res[k++]=i;
+            nums[k++]=i;
         }
     }
     *returnSize=k;
-    return res;
+    return nums;
 }
