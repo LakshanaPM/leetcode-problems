@@ -1,17 +1,28 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
+
 int* smallerNumbersThanCurrent(int* nums, int numsSize, int* returnSize) {
-    
-    *returnSize=numsSize;
-    int* count=(int*)calloc(numsSize,sizeof(int));
-    
+    int* res=(int*)calloc(101,sizeof(int));
+    int max=-99999;
     for(int i=0;i<numsSize;i++){
-        for(int j=0;j<numsSize;j++){
-            if(i!=j&&nums[j]<nums[i]){
-                count[i]++;
-            }
+        ++res[nums[i]];
+        if(nums[i]>max){
+            max=nums[i];
         }
     }
-    return count;
+    *returnSize=numsSize;
+    int* r = (int*)malloc(numsSize*sizeof(int));
+    int sum=0;
+    for(int i=0;i<=max;i++){
+        int t=res[i]+sum;
+        res[i]=sum;
+        sum=t;
+    }
+    for(int i=0;i<numsSize;i++){
+        r[i]=res[nums[i]];
+    }
+    free(res);
+    free(nums);
+    return r;
 }
