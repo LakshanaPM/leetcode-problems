@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/LakshanaPM/leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/LakshanaPM/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0933-increasing-order-search-tree) |
+| [1441-build-an-array-with-stack-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/LakshanaPM/leetcode-problems/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Tree
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/LakshanaPM/leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/LakshanaPM/leetcode-problems/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LakshanaPM/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
