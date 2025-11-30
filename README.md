@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/LakshanaPM/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 | [1441-build-an-array-with-stack-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshanaPM/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/LakshanaPM/leetcode-problems/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Tree
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshanaPM/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/LakshanaPM/leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1635-number-of-good-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/1635-number-of-good-pairs) |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/LakshanaPM/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshanaPM/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
