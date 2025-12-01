@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/LakshanaPM/leetcode-problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshanaPM/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/LakshanaPM/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/LakshanaPM/leetcode-problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/LakshanaPM/leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/LakshanaPM/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/LakshanaPM/leetcode-problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/LakshanaPM/leetcode-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
