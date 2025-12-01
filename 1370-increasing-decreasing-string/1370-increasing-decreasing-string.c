@@ -7,7 +7,7 @@ char* sortString(char* s) {
     }
     int l=strlen(s);
     int j=0;
-    char* result=(char*)malloc(l*sizeof(int));
+    char* result=(char*)malloc((l+1)*sizeof(char));
     while(j<l){
         for(int i=0;i<26;i++){
             if(count[i]>0){
@@ -22,6 +22,6 @@ char* sortString(char* s) {
             }
         }
     }
-    result[l]='\0';
+    result[j]='\0';
     return result;
 }
