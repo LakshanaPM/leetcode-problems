@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/LakshanaPM/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1635-number-of-good-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/LakshanaPM/leetcode-problems/tree/master/1642-water-bottles) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/LakshanaPM/leetcode-problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/LakshanaPM/leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LakshanaPM/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2288-count-operations-to-obtain-zero](https://github.com/LakshanaPM/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1400-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/LakshanaPM/leetcode-problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LakshanaPM/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LakshanaPM/leetcode-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1400-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/LakshanaPM/leetcode-problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LakshanaPM/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LakshanaPM/leetcode-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
