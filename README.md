@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0606-construct-string-from-binary-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1370-increasing-decreasing-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
+| [1400-construct-k-palindrome-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1400-construct-k-palindrome-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshanaPM/leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LakshanaPM/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1400-construct-k-palindrome-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1400-construct-k-palindrome-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshanaPM/leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Hash Table
 |  |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
+| [1400-construct-k-palindrome-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1400-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
+| [1400-construct-k-palindrome-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1400-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
