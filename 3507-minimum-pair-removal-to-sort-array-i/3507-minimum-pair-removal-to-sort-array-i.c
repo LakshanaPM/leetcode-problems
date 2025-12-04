@@ -1,6 +1,5 @@
 int minimumPairRemoval(int* nums, int numsSize) {
-    int x,y;
-    int min=INT_MAX;
+    int x;
     int count=0,c=0;
     while(1){
         count=0;
@@ -17,16 +16,11 @@ int minimumPairRemoval(int* nums, int numsSize) {
             if(nums[i]+nums[i+1]<min){
                 min=nums[i]+nums[i+1];
                 x=i;
-                y=i+1;
             }
         }
-        for(int j=x;j<numsSize-1;j++){
-            if(j==x){
-                nums[j]=min;
-            }
-            else{
-                nums[j]=nums[j+1];
-            }
+        nums[x]=min;
+        for(int j=x+1;j<numsSize-1;j++){
+            nums[j]=nums[j+1];
         }
         c++;
         --numsSize;
