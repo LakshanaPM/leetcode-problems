@@ -13,8 +13,9 @@ int minimumPairRemoval(int* nums, int numsSize) {
         }
         int min=INT_MAX;
         for(int i=0;i<numsSize-1;i++){
-            if(nums[i]+nums[i+1]<min){
-                min=nums[i]+nums[i+1];
+            count=nums[i]+nums[i+1];
+            if(count<min){
+                min=count;
                 x=i;
             }
         }
