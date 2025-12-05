@@ -67,7 +67,7 @@ void myLinkedListDeleteAtIndex(MyLinkedList* obj, int index) {
     }
     if(!curr->next) return;
     MyLinkedList* newnode=curr->next;
-    curr->next=curr->next->next;
+    curr->next=newnode->next;
     free(newnode);
 }
 
