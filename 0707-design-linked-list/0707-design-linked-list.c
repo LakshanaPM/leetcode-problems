@@ -27,7 +27,7 @@ int myLinkedListGet(MyLinkedList* obj, int index) {
 }
 
 void myLinkedListAddAtHead(MyLinkedList* obj, int val) {
-    MyLinkedList* newnode=myLinkedListCreate();
+    MyLinkedList* newnode=(MyLinkedList*)malloc(sizeof(MyLinkedList));
     newnode->val=val;
     newnode->next=obj->next;
     obj->next=newnode;
@@ -38,7 +38,7 @@ void myLinkedListAddAtTail(MyLinkedList* obj, int val) {
     while(curr->next){
         curr=curr->next;
     }
-    MyLinkedList* newnode=myLinkedListCreate();
+    MyLinkedList* newnode=(MyLinkedList*)malloc(sizeof(MyLinkedList));
     newnode->val=val;
     newnode->next=NULL;
     curr->next=newnode;
@@ -52,7 +52,7 @@ void myLinkedListAddAtIndex(MyLinkedList* obj, int index, int val) {
         i++;
     }
     if(!curr) return;
-    MyLinkedList* newnode=myLinkedListCreate();
+    MyLinkedList* newnode=(MyLinkedList*)malloc(sizeof(MyLinkedList));
     newnode->val=val;
     newnode->next=curr->next;
     curr->next=newnode;
