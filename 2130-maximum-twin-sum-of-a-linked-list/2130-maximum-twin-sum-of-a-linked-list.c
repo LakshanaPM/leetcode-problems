@@ -21,7 +21,7 @@ int pairSum(struct ListNode* head) {
         prev=curr;
         curr=nxt;
     }
-    int max=INT_MIN;
+    int max=0;
     curr=head;
     slow=prev;
     while(slow){
