@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/LakshanaPM/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/LakshanaPM/leetcode-problems/tree/master/0284-peeking-iterator) |
+| [0707-design-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/0707-design-linked-list) |
 ## Iterator
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/0707-design-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/LakshanaPM/leetcode-problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/LakshanaPM/leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
