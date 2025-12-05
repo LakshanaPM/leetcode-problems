@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/0061-rotate-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshanaPM/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/0061-rotate-list) |
 | [0707-design-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/0707-design-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/LakshanaPM/leetcode-problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
