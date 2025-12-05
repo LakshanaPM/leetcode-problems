@@ -72,7 +72,12 @@ void myLinkedListDeleteAtIndex(MyLinkedList* obj, int index) {
 }
 
 void myLinkedListFree(MyLinkedList* obj) {
-    free(obj);
+    while(obj){
+        MyLinkedList* todelete=(MyLinkedList*)malloc(sizeof(MyLinkedList));
+        todelete=obj;
+        obj=obj->next;
+        free(todelete);
+    }
 }
 
 /**
