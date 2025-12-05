@@ -29,8 +29,7 @@ struct ListNode* rotateRight(struct ListNode* head, int k) {
         i++;
         curr=curr->next;
     }
-    if(i==k) return head;
-    if(k%i==0) return head;
+    if(i==k||k%i==0) return head;
     k=k%i;
     head=reverseList(head,i);
     struct ListNode* first=head;
