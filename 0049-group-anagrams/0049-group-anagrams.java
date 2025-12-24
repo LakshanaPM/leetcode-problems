@@ -10,8 +10,7 @@ class Solution {
             }
             anagram.get(s).add(strs[i]);
         }
-        List<List<String>> r=new ArrayList<>();
-        r.addAll(anagram.values());
-        return r;
+
+        return new ArrayList<>(anagram.values());
     }
 }
