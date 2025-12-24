@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/LakshanaPM/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/LakshanaPM/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0284-peeking-iterator](https://github.com/LakshanaPM/leetcode-problems/tree/master/0284-peeking-iterator) |
 | [0349-intersection-of-two-arrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/LakshanaPM/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [2625-increment-submatrices-by-one](https://github.com/LakshanaPM/leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/LakshanaPM/leetcode-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/LakshanaPM/leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
