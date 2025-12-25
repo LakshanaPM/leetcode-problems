@@ -12,7 +12,7 @@ class Solution {
                 r--;
             }
             else if(nums[l]<=nums[m]){
-                if(target>=nums[l]&&target<nums[m]){
+                if(target>=nums[l]&&target<=nums[m]){
                     r=m-1;
                 }
                 else{
