@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/LakshanaPM/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/LakshanaPM/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/LakshanaPM/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
+| [0832-flipping-an-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [2625-increment-submatrices-by-one](https://github.com/LakshanaPM/leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 ## Math
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshanaPM/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/LakshanaPM/leetcode-problems/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1929-concatenation-of-array) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/LakshanaPM/leetcode-problems/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/LakshanaPM/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
