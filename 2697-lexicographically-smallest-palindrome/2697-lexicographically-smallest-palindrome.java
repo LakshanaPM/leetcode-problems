@@ -4,12 +4,9 @@ class Solution {
         int i=0;
         int j=sb.length()-1;
         while(i<j){
-            if(sb.charAt(i)<sb.charAt(j)){
-                sb.setCharAt(j,sb.charAt(i));
-            }
-            else if(sb.charAt(i)>sb.charAt(j)){
-                sb.setCharAt(i,sb.charAt(j));
-            }
+            char minChar = (char) Math.min(sb.charAt(i), sb.charAt(j));
+            sb.setCharAt(i,minChar);
+            sb.setCharAt(j,minChar);
             i++;
             j--;
         }
