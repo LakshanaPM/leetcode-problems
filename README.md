@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/LakshanaPM/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0832-flipping-an-image) |
+| [1089-duplicate-zeros](https://github.com/LakshanaPM/leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/LakshanaPM/leetcode-problems/tree/master/0917-reverse-only-letters) |
+| [1089-duplicate-zeros](https://github.com/LakshanaPM/leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/LakshanaPM/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/LakshanaPM/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
