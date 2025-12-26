@@ -3,14 +3,13 @@ class Solution {
         long num=0;
         int i=0;
         int j=nums.length-1;
-        while(i<=j){
-            String a=String.valueOf(nums[i]);
-            if(i!=j){       
-                a+=String.valueOf(nums[j]);
-            }
-            num+= Long.parseLong(a);
+        while(i<j){ 
+            num+= Long.parseLong(String.valueOf(nums[i]) + String.valueOf(nums[j]));
             i++;
             j--;
+        }
+        if(i==j){
+            num+=nums[i];
         }
         return num;
     }
