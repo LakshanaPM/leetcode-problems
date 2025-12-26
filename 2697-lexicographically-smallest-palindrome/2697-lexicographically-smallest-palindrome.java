@@ -4,9 +4,11 @@ class Solution {
         int i=0;
         int j=sb.length()-1;
         while(i<j){
-            char minChar = (char) Math.min(sb.charAt(i), sb.charAt(j));
-            sb.setCharAt(i,minChar);
-            sb.setCharAt(j,minChar);
+            if(sb.charAt(i)!=sb.charAt(j)){
+                char minChar = (char) Math.min(sb.charAt(i), sb.charAt(j));
+                sb.setCharAt(i,minChar);
+                sb.setCharAt(j,minChar);
+            }
             i++;
             j--;
         }
