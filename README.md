@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LakshanaPM/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LakshanaPM/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LakshanaPM/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/LakshanaPM/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/LakshanaPM/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/LakshanaPM/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
