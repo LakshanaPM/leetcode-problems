@@ -12,12 +12,10 @@ class Solution {
         int end = n-1;
         var set = new HashSet<Double>();
         while (start<end) {
-            int  min =nums[start];
-            int max = nums[end];
-            double  avg  = (min + max) / 2.0;
+            double  avg  = (nums[start] + nums[end]) / 2.0;
             set.add(avg);
-               start++;
-               end--;
+            start++;
+            end--;
         }
         return set.size();
     }
