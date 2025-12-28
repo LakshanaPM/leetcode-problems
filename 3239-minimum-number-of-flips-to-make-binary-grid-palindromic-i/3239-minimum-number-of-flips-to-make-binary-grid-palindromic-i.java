@@ -13,6 +13,7 @@ class Solution {
             }
         }
         int count1=0;
+        if(count!=0){
         for(int i=0;i<n;i++){
             int l=0,r=grid.length-1;
             while(l<r){
@@ -23,7 +24,7 @@ class Solution {
                 r--;
             }
         }
-        if(count1<count) return count1;
+        if(count1<count) return count1;}
         return count;
     }
 }
