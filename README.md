@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/LakshanaPM/leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/LakshanaPM/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LakshanaPM/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/3324-split-the-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/LakshanaPM/leetcode-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2625-increment-submatrices-by-one](https://github.com/LakshanaPM/leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Math
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/LakshanaPM/leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/LakshanaPM/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Prefix Sum
 |  |
