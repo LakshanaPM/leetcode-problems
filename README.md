@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/LakshanaPM/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/LakshanaPM/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/LakshanaPM/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshanaPM/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/LakshanaPM/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/LakshanaPM/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/LakshanaPM/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/LakshanaPM/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshanaPM/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2460-apply-operations-to-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2460-apply-operations-to-an-array) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/LakshanaPM/leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/LakshanaPM/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/LakshanaPM/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/LakshanaPM/leetcode-problems/tree/master/2211-count-collisions-on-a-road) |
 | [2288-count-operations-to-obtain-zero](https://github.com/LakshanaPM/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/LakshanaPM/leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
