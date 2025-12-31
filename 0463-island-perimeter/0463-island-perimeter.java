@@ -1,23 +1,27 @@
 class Solution {
-    Set<String> visited = new HashSet<>();
-    public int dfs(int[][] grid,int i,int j){
-        if(i>=grid.length||j>=grid[0].length||i<0||j<0||grid[i][j]==0){
-            return 1;
-        }
-        String key=i+","+j;
-        if(visited.contains(key)) return 0;
-        visited.add(key);
-        return dfs(grid,i,j+1)+dfs(grid,i,j-1)+dfs(grid,i+1,j)+dfs(grid,i-1,j);
-    }
     public int islandPerimeter(int[][] grid) {
-        Set<Set<Integer>> set2D = new HashSet<>();
+        int n=grid.length;
+        int m=grid[0].length;
+        int res=0;
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
+                int l=j-1;
+                int r=j+1;
+                int u=i-1;
+                int d=i+1;
                 if(grid[i][j]==1){
-                    return dfs(grid,i,j);
+                    if(l<0) res++;
+                    if(r>=m) res++;
+                    if(u<0) res++;
+                    if(d>=n) res++;
+                    if(u>=0&&grid[u][j]==0) res++;
+                    if(l>=0&&grid[i][l]==0) res++;
+                    if(r<m&&grid[i][r]==0) res++;
+                    if(d<n&&grid[d][j]==0) res++;
                 }
             }
+            
         }
-        return 0;
+        return res;
     }
 }
