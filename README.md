@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/LakshanaPM/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/LakshanaPM/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/LakshanaPM/leetcode-problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/LakshanaPM/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/LakshanaPM/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/LakshanaPM/leetcode-problems/tree/master/0804-unique-morse-code-words) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/LakshanaPM/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/LakshanaPM/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [2625-increment-submatrices-by-one](https://github.com/LakshanaPM/leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/LakshanaPM/leetcode-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/LakshanaPM/leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
