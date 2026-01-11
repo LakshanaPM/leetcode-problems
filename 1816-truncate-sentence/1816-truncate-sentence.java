@@ -1,15 +1,13 @@
 class Solution {
     public String truncateSentence(String s, int k) {
-        String sb="";
-        String[] words=s.split(" ");
-        for(String word:words){
-            sb+=word;
-            k--;
-            if(k==0) break;
-            else{
-                sb+=" ";
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i)==' '){
+                k--;
+                if(k==0){
+                    return s.substring(0,i);
+                }
             }
         }
-        return sb;
+        return s;
     }
 }
