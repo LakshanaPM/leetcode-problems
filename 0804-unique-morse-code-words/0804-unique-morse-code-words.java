@@ -3,14 +3,12 @@ class Solution {
         String[] alpha={".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
         Set<String> h = new HashSet<String>();
         for(int i=0;i<words.length;i++){
-            String letter=words[i];
-            int j=0;
-            String count="";
-            while(j<letter.length()){
-                count+=alpha[(int)letter.charAt(j)-97];
-                j++;
+            
+            StringBuilder sb=new StringBuilder();
+            for(char c:words[i].toCharArray()){
+                sb.append(alpha[c-'a']);
             }
-            h.add(count);
+            h.add(sb.toString());
         }
         return h.size();
     }
