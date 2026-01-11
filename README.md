@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/LakshanaPM/leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
