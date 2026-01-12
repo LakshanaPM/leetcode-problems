@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/LakshanaPM/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/LakshanaPM/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1470-shuffle-the-array) |
