@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LakshanaPM/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/LakshanaPM/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1331-rank-transform-of-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/LakshanaPM/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/LakshanaPM/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/LakshanaPM/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/LakshanaPM/leetcode-problems/tree/master/0804-unique-morse-code-words) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
 | [1400-construct-k-palindrome-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1400-construct-k-palindrome-strings) |
