@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshanaPM/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-shuffle-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/1528-shuffle-string) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/LakshanaPM/leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/LakshanaPM/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/LakshanaPM/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2625-increment-submatrices-by-one](https://github.com/LakshanaPM/leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/LakshanaPM/leetcode-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
