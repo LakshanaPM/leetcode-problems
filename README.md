@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/LakshanaPM/leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LakshanaPM/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2288-count-operations-to-obtain-zero](https://github.com/LakshanaPM/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2396-strictly-palindromic-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/2831-number-of-beautiful-pairs) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/LakshanaPM/leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/LakshanaPM/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/LakshanaPM/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshanaPM/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2396-strictly-palindromic-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/LakshanaPM/leetcode-problems/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/2540-minimum-common-value) |
@@ -668,4 +670,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/LakshanaPM/leetcode-problems/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
