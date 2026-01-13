@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LakshanaPM/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2831-number-of-beautiful-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/2831-number-of-beautiful-pairs) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshanaPM/leetcode-problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/LakshanaPM/leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/LakshanaPM/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/LakshanaPM/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/LakshanaPM/leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/LakshanaPM/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
