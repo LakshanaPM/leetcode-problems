@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/LakshanaPM/leetcode-problems/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/0867-transpose-matrix) |
+| [0930-binary-subarrays-with-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0999-available-captures-for-rook](https://github.com/LakshanaPM/leetcode-problems/tree/master/0999-available-captures-for-rook) |
 | [1089-duplicate-zeros](https://github.com/LakshanaPM/leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/LakshanaPM/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/LakshanaPM/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2625-increment-submatrices-by-one](https://github.com/LakshanaPM/leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1755-defuse-the-bomb](https://github.com/LakshanaPM/leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LakshanaPM/leetcode-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshanaPM/leetcode-problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/LakshanaPM/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/LakshanaPM/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/LakshanaPM/leetcode-problems/tree/master/0804-unique-morse-code-words) |
+| [0930-binary-subarrays-with-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
