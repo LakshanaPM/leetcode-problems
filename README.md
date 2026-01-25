@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/LakshanaPM/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/LakshanaPM/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/LakshanaPM/leetcode-problems/tree/master/0506-relative-ranks) |
+| [0622-design-circular-queue](https://github.com/LakshanaPM/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0636-exclusive-time-of-functions](https://github.com/LakshanaPM/leetcode-problems/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/LakshanaPM/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/LakshanaPM/leetcode-problems/tree/master/0695-max-area-of-island) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/LakshanaPM/leetcode-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/LakshanaPM/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/LakshanaPM/leetcode-problems/tree/master/0284-peeking-iterator) |
+| [0622-design-circular-queue](https://github.com/LakshanaPM/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/0707-design-linked-list) |
 ## Iterator
 |  |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/LakshanaPM/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/LakshanaPM/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LakshanaPM/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/LakshanaPM/leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 ## Linked List
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/LakshanaPM/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0622-design-circular-queue](https://github.com/LakshanaPM/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/0707-design-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1367-linked-list-in-binary-tree) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
