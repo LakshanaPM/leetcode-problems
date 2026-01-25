@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/LakshanaPM/leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/LakshanaPM/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LakshanaPM/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/LakshanaPM/leetcode-problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/LakshanaPM/leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/LakshanaPM/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2831-number-of-beautiful-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/2831-number-of-beautiful-pairs) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LakshanaPM/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
