@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/1254-deepest-leaves-sum) |
+| [1267-count-servers-that-communicate](https://github.com/LakshanaPM/leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1367-linked-list-in-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/1254-deepest-leaves-sum) |
+| [1267-count-servers-that-communicate](https://github.com/LakshanaPM/leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/LakshanaPM/leetcode-problems/tree/master/0999-available-captures-for-rook) |
 | [1089-duplicate-zeros](https://github.com/LakshanaPM/leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
+| [1267-count-servers-that-communicate](https://github.com/LakshanaPM/leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LakshanaPM/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/LakshanaPM/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/LakshanaPM/leetcode-problems/tree/master/0999-available-captures-for-rook) |
+| [1267-count-servers-that-communicate](https://github.com/LakshanaPM/leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2625-increment-submatrices-by-one](https://github.com/LakshanaPM/leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -637,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/LakshanaPM/leetcode-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/LakshanaPM/leetcode-problems/tree/master/0383-ransom-note) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
+| [1267-count-servers-that-communicate](https://github.com/LakshanaPM/leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
@@ -730,4 +735,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LakshanaPM/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/LakshanaPM/leetcode-problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/LakshanaPM/leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
