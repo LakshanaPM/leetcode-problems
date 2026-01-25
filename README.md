@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/1254-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1367-linked-list-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1367-linked-list-in-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/LakshanaPM/leetcode-problems/tree/master/2384-root-equals-sum-of-children) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/1254-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1367-linked-list-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1367-linked-list-in-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/1254-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1367-linked-list-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1367-linked-list-in-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/LakshanaPM/leetcode-problems/tree/master/2384-root-equals-sum-of-children) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/LakshanaPM/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0707-design-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/0707-design-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1367-linked-list-in-binary-tree) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/LakshanaPM/leetcode-problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/LakshanaPM/leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
