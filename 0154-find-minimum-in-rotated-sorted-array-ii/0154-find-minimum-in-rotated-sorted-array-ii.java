@@ -7,8 +7,12 @@ class Solution {
             if(nums[mid]>nums[r]){
                 l=mid+1;
             }
-            else{
+            else if(nums[mid]<nums[l]){
                 r=mid;
+                l++;
+            }
+            else{
+                r--;
             }
         }
         return nums[l];
