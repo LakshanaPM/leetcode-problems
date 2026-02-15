@@ -1,9 +1,10 @@
 class Solution {
     public void findCombinations(int i,int[] candidates,int target,List<List<Integer>> ans,List<Integer> list){
+        if(target==0){
+            ans.add(new ArrayList<>(list));
+            return;
+        }
         if(i==candidates.length){
-            if(target==0){
-                ans.add(new ArrayList<>(list));
-            }
             return;
         }
         if(candidates[i]<=target){
