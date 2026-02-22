@@ -3,18 +3,20 @@ class Solution {
         int c=0;
         while(left<=right){
             int sum=Integer.bitCount(left);
-            boolean e=true;
-            if (sum < 2) e = false;
-            for(int j=2;j<=Math.sqrt(sum)&&e;j++){
-                if(sum%j==0){
-                    e=false;
-                }
-            }
-            if(e){
+            if(isPrime(sum)){
                 c++;
             }
             left++;
         }
         return c;
+    }
+    private boolean isPrime(int sum){
+        if(sum<2) return false;
+        for(int i=2;i<=Math.sqrt(sum);i++){
+            if(sum%i==0){
+                return false;
+            }
+        }
+        return true;
     }
 }
