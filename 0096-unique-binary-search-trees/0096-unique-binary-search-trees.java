@@ -7,8 +7,8 @@ class Solution {
         sol[0]=1;
         sol[1]=1;
         for(int i=2;i<=n;i++){
-            for(int j=0;j<i;j++){
-                sol[i]+=sol[j]*sol[i-j-1];
+            for(int j=1;j<=i;j++){
+                sol[i]+=sol[j-1]*sol[i-j];
             }
         }
         return sol[n];
