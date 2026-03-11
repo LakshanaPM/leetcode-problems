@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/LakshanaPM/leetcode-problems/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/LakshanaPM/leetcode-problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/LakshanaPM/leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LakshanaPM/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0198-house-robber](https://github.com/LakshanaPM/leetcode-problems/tree/master/0198-house-robber) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshanaPM/leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/LakshanaPM/leetcode-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Greedy
