@@ -786,4 +786,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/LakshanaPM/leetcode-problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
