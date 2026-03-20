@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/LakshanaPM/leetcode-problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/LakshanaPM/leetcode-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/LakshanaPM/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/LakshanaPM/leetcode-problems/tree/master/0284-peeking-iterator) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/LakshanaPM/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/LakshanaPM/leetcode-problems/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/LakshanaPM/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/0707-design-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1367-linked-list-in-binary-tree) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LakshanaPM/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/LakshanaPM/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/LakshanaPM/leetcode-problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/LakshanaPM/leetcode-problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/LakshanaPM/leetcode-problems/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
