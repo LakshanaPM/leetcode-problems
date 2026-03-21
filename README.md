@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshanaPM/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshanaPM/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/LakshanaPM/leetcode-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LakshanaPM/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/0386-lexicographical-numbers) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/LakshanaPM/leetcode-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LakshanaPM/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -785,10 +787,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/LakshanaPM/leetcode-problems/tree/master/0207-course-schedule) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/LakshanaPM/leetcode-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/LakshanaPM/leetcode-problems/tree/master/0207-course-schedule) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/LakshanaPM/leetcode-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
