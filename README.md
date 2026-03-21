@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 | [1441-build-an-array-with-stack-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshanaPM/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/LakshanaPM/leetcode-problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/LakshanaPM/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/LakshanaPM/leetcode-problems/tree/master/2211-count-collisions-on-a-road) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/LakshanaPM/leetcode-problems/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/LakshanaPM/leetcode-problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LakshanaPM/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LakshanaPM/leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/LakshanaPM/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/LakshanaPM/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshanaPM/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/LakshanaPM/leetcode-problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
