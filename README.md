@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/LakshanaPM/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/LakshanaPM/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/LakshanaPM/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/LakshanaPM/leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/LakshanaPM/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/LakshanaPM/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/LakshanaPM/leetcode-problems/tree/master/0198-house-robber) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/LakshanaPM/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0039-combination-sum) |
 ## Rolling Hash
 |  |
