@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/LakshanaPM/leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3643-flip-square-submatrix-vertically](https://github.com/LakshanaPM/leetcode-problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3778-transform-array-by-parity](https://github.com/LakshanaPM/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/LakshanaPM/leetcode-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2625-increment-submatrices-by-one](https://github.com/LakshanaPM/leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/LakshanaPM/leetcode-problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/LakshanaPM/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/LakshanaPM/leetcode-problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/LakshanaPM/leetcode-problems/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
