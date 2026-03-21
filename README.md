@@ -770,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/LakshanaPM/leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
