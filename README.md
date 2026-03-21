@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/LakshanaPM/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LakshanaPM/leetcode-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/LakshanaPM/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/1035-cousins-in-binary-tree) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/LakshanaPM/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/LakshanaPM/leetcode-problems/tree/master/0999-available-captures-for-rook) |
 | [1089-duplicate-zeros](https://github.com/LakshanaPM/leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/LakshanaPM/leetcode-problems/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/LakshanaPM/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/LakshanaPM/leetcode-problems/tree/master/0999-available-captures-for-rook) |
 | [1267-count-servers-that-communicate](https://github.com/LakshanaPM/leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
