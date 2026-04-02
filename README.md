@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/LakshanaPM/leetcode-problems/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/LakshanaPM/leetcode-problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/LakshanaPM/leetcode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/LakshanaPM/leetcode-problems/tree/master/0463-island-perimeter) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LakshanaPM/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/LakshanaPM/leetcode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0506-relative-ranks](https://github.com/LakshanaPM/leetcode-problems/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/LakshanaPM/leetcode-problems/tree/master/1046-last-stone-weight) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
