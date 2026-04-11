@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/LakshanaPM/leetcode-problems/tree/master/3643-flip-square-submatrix-vertically) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3778-transform-array-by-parity](https://github.com/LakshanaPM/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/LakshanaPM/leetcode-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/LakshanaPM/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/LakshanaPM/leetcode-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
