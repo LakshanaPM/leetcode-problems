@@ -12,6 +12,7 @@ class Solution {
             res[n-i-1]*=suffix;
             suffix*=nums[n-i-1];
         }
+        System.gc();
         return res;
     }
 }
