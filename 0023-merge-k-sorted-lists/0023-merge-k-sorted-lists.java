@@ -32,7 +32,8 @@ class Solution {
             temp.next = current;
             temp = temp.next;
         }
-
+        System.gc();
         return dummyNode.next;
+        
     }
 }
