@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/LakshanaPM/leetcode-problems/tree/master/0198-house-robber) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshanaPM/leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/LakshanaPM/leetcode-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/LakshanaPM/leetcode-problems/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Greedy
 |  |
 | ------- |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1400-construct-k-palindrome-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshanaPM/leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/LakshanaPM/leetcode-problems/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/LakshanaPM/leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/LakshanaPM/leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Hash Table
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/LakshanaPM/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/LakshanaPM/leetcode-problems/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Monotonic Stack
