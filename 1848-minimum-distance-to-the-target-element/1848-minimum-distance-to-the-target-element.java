@@ -11,6 +11,7 @@ class Solution {
             left--;
             right++;
         }
+        System.gc();
         return 0;
     }
 }
