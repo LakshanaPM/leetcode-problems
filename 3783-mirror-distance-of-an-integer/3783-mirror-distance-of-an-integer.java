@@ -6,6 +6,8 @@ class Solution {
             rev=rev*10+t%10;
             t/=10;
         }
+        System.gc();
         return Math.abs(rev-n);
+
     }
 }
