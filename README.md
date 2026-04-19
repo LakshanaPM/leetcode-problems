@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0096-unique-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0048-rotate-image) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/LakshanaPM/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/LakshanaPM/leetcode-problems/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/LakshanaPM/leetcode-problems/tree/master/0315-count-of-smaller-numbers-after-self) |
