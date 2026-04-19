@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1539-kth-missing-positive-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/LakshanaPM/leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshanaPM/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/LakshanaPM/leetcode-problems/tree/master/2540-minimum-common-value) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/LakshanaPM/leetcode-problems/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/LakshanaPM/leetcode-problems/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/LakshanaPM/leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LakshanaPM/leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/LakshanaPM/leetcode-problems/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/LakshanaPM/leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/LakshanaPM/leetcode-problems/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/LakshanaPM/leetcode-problems/tree/master/1768-merge-strings-alternately) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/LakshanaPM/leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/LakshanaPM/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
