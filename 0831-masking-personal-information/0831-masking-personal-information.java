@@ -3,7 +3,7 @@ class Solution {
         str = str.toLowerCase();
         String res="";
         res += str.charAt(0);
-        res+=("*").repeat(5);
+        res+="*****";
         res+=str.substring(str.indexOf("@")-1);
         return res;
     }
