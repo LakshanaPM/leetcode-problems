@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/LakshanaPM/leetcode-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/LakshanaPM/leetcode-problems/tree/master/0975-range-sum-of-bst) |
+| [1004-max-consecutive-ones-iii](https://github.com/LakshanaPM/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1539-kth-missing-positive-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/LakshanaPM/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/LakshanaPM/leetcode-problems/tree/master/0999-available-captures-for-rook) |
+| [1004-max-consecutive-ones-iii](https://github.com/LakshanaPM/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/LakshanaPM/leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/LakshanaPM/leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/LakshanaPM/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/LakshanaPM/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/LakshanaPM/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/LakshanaPM/leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LakshanaPM/leetcode-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshanaPM/leetcode-problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
