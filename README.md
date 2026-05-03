@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/LakshanaPM/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LakshanaPM/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/LakshanaPM/leetcode-problems/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshanaPM/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/LakshanaPM/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/LakshanaPM/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LakshanaPM/leetcode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0506-relative-ranks](https://github.com/LakshanaPM/leetcode-problems/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/LakshanaPM/leetcode-problems/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/LakshanaPM/leetcode-problems/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
