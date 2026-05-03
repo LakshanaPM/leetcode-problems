@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/LakshanaPM/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/LakshanaPM/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/LakshanaPM/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LakshanaPM/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/LakshanaPM/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshanaPM/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/LakshanaPM/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/LakshanaPM/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/LakshanaPM/leetcode-problems/tree/master/0056-merge-intervals) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/LakshanaPM/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/LakshanaPM/leetcode-problems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/LakshanaPM/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/LakshanaPM/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/LakshanaPM/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LakshanaPM/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/LakshanaPM/leetcode-problems/tree/master/0152-maximum-product-subarray) |
@@ -765,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/LakshanaPM/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LakshanaPM/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/LakshanaPM/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshanaPM/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
