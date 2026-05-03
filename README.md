@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0606-construct-string-from-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0804-unique-morse-code-words](https://github.com/LakshanaPM/leetcode-problems/tree/master/0804-unique-morse-code-words) |
+| [0831-masking-personal-information](https://github.com/LakshanaPM/leetcode-problems/tree/master/0831-masking-personal-information) |
 | [0917-reverse-only-letters](https://github.com/LakshanaPM/leetcode-problems/tree/master/0917-reverse-only-letters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/LakshanaPM/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1332-remove-palindromic-subsequences](https://github.com/LakshanaPM/leetcode-problems/tree/master/1332-remove-palindromic-subsequences) |
