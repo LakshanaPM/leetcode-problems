@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/LakshanaPM/leetcode-problems/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/LakshanaPM/leetcode-problems/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/LakshanaPM/leetcode-problems/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0606-construct-string-from-binary-tree](https://github.com/LakshanaPM/leetcode-problems/tree/master/0606-construct-string-from-binary-tree) |
