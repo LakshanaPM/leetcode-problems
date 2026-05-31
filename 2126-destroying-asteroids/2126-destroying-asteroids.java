@@ -1,13 +1,14 @@
 class Solution {
     public boolean asteroidsDestroyed(int mass, int[] asteroids) {
-        Arrays.sort(asteroids);
-        int n=asteroids.length;
+        PriorityQueue<Integer> queue = new PriorityQueue<>(Arrays.stream(asteroids).boxed().collect(Collectors.toList()));
         long max=mass;
-        for(int i=0;i<n;i++){
-            if(max<asteroids[i]){
+        while(!queue.isEmpty()){
+            if(queue.peek()<=max){
+                max+=queue.poll();
+            }
+            else{
                 return false;
             }
-            max+=asteroids[i];
         }
         return true;
     }
