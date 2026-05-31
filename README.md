@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2126-destroying-asteroids](https://github.com/LakshanaPM/leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/LakshanaPM/leetcode-problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshanaPM/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/LakshanaPM/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2126-destroying-asteroids](https://github.com/LakshanaPM/leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2248-intersection-of-multiple-arrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshanaPM/leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2465-number-of-distinct-averages](https://github.com/LakshanaPM/leetcode-problems/tree/master/2465-number-of-distinct-averages) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1400-construct-k-palindrome-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LakshanaPM/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshanaPM/leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2126-destroying-asteroids](https://github.com/LakshanaPM/leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/LakshanaPM/leetcode-problems/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/LakshanaPM/leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/LakshanaPM/leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
