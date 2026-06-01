@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LakshanaPM/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/LakshanaPM/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0284-peeking-iterator](https://github.com/LakshanaPM/leetcode-problems/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/LakshanaPM/leetcode-problems/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/LakshanaPM/leetcode-problems/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/LakshanaPM/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/LakshanaPM/leetcode-problems/tree/master/1755-defuse-the-bomb) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/LakshanaPM/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/LakshanaPM/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LakshanaPM/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/LakshanaPM/leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LakshanaPM/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/LakshanaPM/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LakshanaPM/leetcode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0506-relative-ranks](https://github.com/LakshanaPM/leetcode-problems/tree/master/0506-relative-ranks) |
@@ -900,4 +904,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/LakshanaPM/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/LakshanaPM/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
