@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/LakshanaPM/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LakshanaPM/leetcode-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/LakshanaPM/leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/LakshanaPM/leetcode-problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/LakshanaPM/leetcode-problems/tree/master/2465-number-of-distinct-averages) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/LakshanaPM/leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/LakshanaPM/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3778-transform-array-by-parity](https://github.com/LakshanaPM/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 ## Design
 |  |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/LakshanaPM/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshanaPM/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/LakshanaPM/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/LakshanaPM/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
