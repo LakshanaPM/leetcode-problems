@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/LakshanaPM/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/LakshanaPM/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/LakshanaPM/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/LakshanaPM/leetcode-problems/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/LakshanaPM/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0636-exclusive-time-of-functions](https://github.com/LakshanaPM/leetcode-problems/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/LakshanaPM/leetcode-problems/tree/master/0645-set-mismatch) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LakshanaPM/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/LakshanaPM/leetcode-problems/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/LakshanaPM/leetcode-problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/LakshanaPM/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/LakshanaPM/leetcode-problems/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/LakshanaPM/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1400-construct-k-palindrome-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1400-construct-k-palindrome-strings) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/LakshanaPM/leetcode-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LakshanaPM/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/LakshanaPM/leetcode-problems/tree/master/0383-ransom-note) |
+| [0561-array-partition](https://github.com/LakshanaPM/leetcode-problems/tree/master/0561-array-partition) |
 | [1217-relative-sort-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/1217-relative-sort-array) |
 | [1267-count-servers-that-communicate](https://github.com/LakshanaPM/leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LakshanaPM/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
