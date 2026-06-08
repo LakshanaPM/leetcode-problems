@@ -3,7 +3,7 @@ class Solution {
         Arrays.sort(arr);
         int sum=0;
         for(int i=0;i<arr.length-1;i+=2){
-            sum+=Math.min(arr[i],arr[i+1]);
+            sum+=arr[i];
         }
         return sum;
     }
