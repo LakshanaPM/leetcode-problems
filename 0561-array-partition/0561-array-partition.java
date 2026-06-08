@@ -5,6 +5,7 @@ class Solution {
         for(int i=0;i<arr.length;i+=2){
             sum+=arr[i];
         }
+        System.gc();
         return sum;
     }
 }
