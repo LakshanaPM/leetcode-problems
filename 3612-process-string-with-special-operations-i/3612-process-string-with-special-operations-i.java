@@ -10,7 +10,7 @@ class Solution {
                 sb.append(ch);
             }
             if(ch=='#'){
-                sb.append(sb.toString());
+                sb.append(sb);
             }
             if(ch=='%'){
                 sb.reverse();
