@@ -4,8 +4,8 @@ class Solution {
         int n=nums.length;
         int min=nums[n/2];
         int sum=0;
-        for(int i= 0;i<n;i++){
-            sum+=Math.abs(nums[i]-min);
+        for(int num:nums){
+            sum+=Math.abs(num-min);
         }
         return sum;
     }
