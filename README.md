@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LakshanaPM/leetcode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshanaPM/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LakshanaPM/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/LakshanaPM/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/LakshanaPM/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/LakshanaPM/leetcode-problems/tree/master/0500-keyboard-row) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/LakshanaPM/leetcode-problems/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/LakshanaPM/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LakshanaPM/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/LakshanaPM/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LakshanaPM/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/LakshanaPM/leetcode-problems/tree/master/1635-number-of-good-pairs) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LakshanaPM/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LakshanaPM/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LakshanaPM/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/LakshanaPM/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/LakshanaPM/leetcode-problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/LakshanaPM/leetcode-problems/tree/master/0645-set-mismatch) |
